@@ -1,0 +1,7 @@
+@font-face {
+	font-family: "MoglanDemo";
+	src: url("MoglanDemo.woff2") format("woff2"), url("MoglanDemo.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
